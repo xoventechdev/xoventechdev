@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-rakib" alt="Rakib Hasan" /> </p>
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 Currently learning Django
-- 📫 Reach me: hasanrakib3276@gmail.com
+- 🌱 Currently front-end
+- 📫 Reach me: alkarim.doha@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
